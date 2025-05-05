@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Hi! I'm Vangrou — a student of math and physics. This blog is a place for me to explore concepts like general relativity, quantum field theory, and mathematical physics. I write for myself, but I hope you find something useful here too.
+Hey. Coach Big Mack here (yes that's an alias). If you want to learn about physics, you've come to the right place. Physics can be hard. If it's not, you are probably skipping the hard parts. In this blog, Coach will try to make things as easy as possible.
