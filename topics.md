@@ -4,8 +4,6 @@ title: Topics
 permalink: /topics/
 ---
 
-Welcome to the Topics page. Choose a course below to explore notes and blog posts:
+Welcome to the Topics page.
 
-- [General Relativity](/relativity/)
-- [Quantum Mechanics](/quantum/)
-- [Thermodynamics](/thermo/)
+- [Building the Newtonian Universe](/physics1/)
