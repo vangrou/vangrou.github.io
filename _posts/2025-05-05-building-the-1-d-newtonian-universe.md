@@ -13,13 +13,13 @@ categories: physics1
 
   That's enough talk about models. Let's start building this Newtonian universe. We will start with one dimension of space. Don't ask me what a dimension is. I don't know. Just picture it. It's probably something like this.
 
-<svg width="100%" height="40">
-  <defs>
-    <marker id="arrow" markerWidth="10" markerHeight="10" refX="0" refY="3" orient="auto">
-      <path d="M0,0 L0,6 L9,3 z" fill="black" />
-    </marker>
-  </defs>
-  <line x1="10" y1="20" x2="590" y2="20" stroke="black" stroke-width="2"
-        marker-start="url(#arrow)" marker-end="url(#arrow)" />
-</svg>
+![image](https://github.com/user-attachments/assets/edec17b7-253b-401a-850c-aa8cde61ff2f)
 
+
+That's what we call space. We're just starting with 1-D space. It might look pretty boring, and it is. Space in the Newtonian universe doesn't do much. It's just there. Now let's add a particle to this 1-D space. A particle is pretty much just a very small thing in space. Don't worry about its mass or charge or anything like that. Just put it in space.
+
+![image](https://github.com/user-attachments/assets/17b1bf47-8ee0-43b7-be27-61500b0437dd)
+
+Now we're talking! Some action! Hold on just a second though. If you keep staring at the picture above, nothing seems to happen. Perhaps the particle is doing something, but we can't tell. We're stuck. We have nothing to say about this Newtonian universe.
+
+It is at this time that I, Coach Big Mack, will go Noah Webster mode (great guy that Noah Webster).  
