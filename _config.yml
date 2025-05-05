@@ -1,0 +1,12 @@
+title: Vangrou's Physics Blog
+description: Exploring the universe through math and physics.
+baseurl: ""
+url: "https://vangrou.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+highlighter: rouge
