@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Intro to the 1-D Newtonian Universe"
+title: "Building the 1-D Newtonian Universe"
 date: 2025-05-05
 categories: physics1
 ---
