@@ -13,4 +13,13 @@ categories: physics1
 
   That's enough talk about models. Let's start building this Newtonian universe. We will start with one dimension of space. Don't ask me what a dimension is. I don't know. Just picture it. It's probably something like this.
 
+<svg width="100%" height="40">
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="0" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="black" />
+    </marker>
+  </defs>
+  <line x1="10" y1="20" x2="590" y2="20" stroke="black" stroke-width="2"
+        marker-start="url(#arrow)" marker-end="url(#arrow)" />
+</svg>
 
