@@ -22,4 +22,4 @@ That's what we call space. We're just starting with 1-D space. It might look pre
 
 Now we're talking! Some action! Hold on just a second though. If you keep staring at the picture above, nothing seems to happen. Perhaps the particle is doing something, but we can't tell. We're stuck. We have nothing to say about this Newtonian universe.
 
-It is at this time that I, Coach Big Mack, will go Noah Webster mode (great guy that Noah Webster).  
+It is at this time that I, Coach Big Mack, will go Noah Webster mode (great guy that Noah Webster). Noah Webster defined words, which is good.   
